@@ -1,0 +1,6 @@
+#! /usr/bin/bash
+
+xdg-open localhost:1313
+
+hugo server -D
+

@@ -1,0 +1,8 @@
+#! /usr/bin/bash
+
+hugo
+
+aws s3 cp --recursive ./public/ s3://blog.jonathandion.com/
+
+aws cloudfront create-invalidation --distribution-id ELF4YMBTOI1R0  \
+                                    --paths "/posts/*" "/index.html" "/index.xml" "/sitemap.xml"

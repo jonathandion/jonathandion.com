@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="326px" height="309px" viewBox="0 0 326 309" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>Blog</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="My-Website" transform="translate(-711.000000, -1818.000000)" stroke="#00FFD4">
+            <g id="What-I-do" transform="translate(136.000000, 1735.000000)">
+                <g id="Wireframes" transform="translate(577.000000, 85.000000)">
+                    <g id="Blog">
+                        <g id="Browser">
+                            <rect id="BG" stroke-width="4" x="0" y="23" width="321.925134" height="281.684492"></rect>
+                            <rect id="Top-Bar" stroke-width="4" x="0" y="0" width="321.925134" height="22.5347594"></rect>
+                            <g id="Dots" transform="translate(9.657754, 8.048128)" stroke-width="2">
+                                <ellipse id="Dot" cx="3.15734266" cy="3.21925134" rx="3.15734266" ry="3.21925134"></ellipse>
+                                <ellipse id="Dot" cx="13.6818182" cy="3.21925134" rx="3.15734266" ry="3.21925134"></ellipse>
+                                <ellipse id="Dot" cx="24.2062937" cy="3.21925134" rx="3.15734266" ry="3.21925134"></ellipse>
+                            </g>
+                        </g>
+                        <g id="Cover-Image" transform="translate(24.144385, 41.850267)" stroke-width="2">
+                            <rect id="Image-BG" x="0" y="0" width="272.026738" height="99.7967914"></rect>
+                            <g id="Title" transform="translate(75.652406, 30.582888)">
+                                <rect id="Text" x="0" y="0" width="122.331551" height="12.8770053"></rect>
+                                <rect id="Text" x="16.0962567" y="22.5347594" width="90.1390374" height="12.8770053"></rect>
+                            </g>
+                        </g>
+                        <g id="Paragraphs" transform="translate(61.165775, 156.181818)" stroke-width="2">
+                            <g id="Text">
+                                <rect x="0" y="0" width="196.287877" height="8.04812834"></rect>
+                                <rect x="0" y="14.486631" width="196.287877" height="8.04812834"></rect>
+                                <rect x="0" y="28.973262" width="196.287877" height="8.04812834"></rect>
+                                <rect x="0" y="43.459893" width="133.59893" height="8.04812834"></rect>
+                            </g>
+                            <g id="Text" transform="translate(0.000000, 70.823529)">
+                                <rect x="0" y="0" width="196.287877" height="8.04812834"></rect>
+                                <rect x="0" y="14.486631" width="196.287877" height="8.04812834"></rect>
+                                <rect x="0" y="28.973262" width="196.287877" height="8.04812834"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

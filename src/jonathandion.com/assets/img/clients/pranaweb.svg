@@ -1,0 +1,6 @@
+<svg width="500px" height="500px" viewBox="53 56 250 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(53.000000, 56.000000)">
+        <circle id="Oval-1" fill="#000000" cx="125" cy="125" r="125"></circle>
+        <path d="M95,181.65 L95,158.55 L138.5,158.55 C163.25,158.55 183.35,138.45 183.35,113.7 C183.35,89.1 163.25,69 138.5,69 L86,69 L86,181.65 L95,181.65 Z M95,77.7 L138.5,77.7 C158.3,77.7 174.35,93.9 174.35,113.7 C174.35,133.5 158.3,149.55 138.5,149.55 L95,149.55 L95,77.7 Z" id="p" fill="#FFFFFF"></path>
+    </g>
+</svg>

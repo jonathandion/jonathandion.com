@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 420 368" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="My-Website" transform="translate(-724.000000, -1799.000000)" stroke="#00FFD4">
+            <g id="User-Profile" transform="translate(726.000000, 1801.000000)">
+                <g id="Browser">
+                    <rect id="test" stroke-width="4" x="0" y="0" width="415.238095" height="363.101604"></rect>
+                    <rect id="Top-Bar" stroke-width="4" x="0" y="0" width="415.238095" height="29.0481283"></rect>
+                    <g id="Dots" transform="translate(12.457143, 10.374332)" stroke-width="2">
+                        <ellipse id="Dot" cx="4.07252747" cy="4.14973262" rx="4.07252747" ry="4.14973262"></ellipse>
+                        <ellipse id="Dot" cx="17.647619" cy="4.14973262" rx="4.07252747" ry="4.14973262"></ellipse>
+                        <ellipse id="Dot" cx="31.2227106" cy="4.14973262" rx="4.07252747" ry="4.14973262"></ellipse>
+                    </g>
+                </g>
+                <g id="Profile" transform="translate(72.666667, 86.844920)">
+                    <rect id="BG" stroke-width="4" x="0" y="0" width="269.904762" height="275.957219"></rect>
+                    <g id="Text" transform="translate(37.371429, 145.465241)" stroke-width="3">
+                        <rect x="43.6" y="0" width="110.038095" height="10.3743316"></rect>
+                        <rect x="0" y="31.1229947" width="198.679669" height="10.3743316"></rect>
+                        <rect x="22.8380952" y="49.7967914" width="153.638095" height="10.3743316"></rect>
+                    </g>
+                    <g id="Avatar" transform="translate(97.580952, 33.422460)" stroke-width="4">
+                        <g id="Group" transform="translate(18.148768, 19.532362)">
+                            <ellipse id="Body" cx="22.3369458" cy="11.1613498" rx="11.1684729" ry="11.1613498"></ellipse>
+                            <path d="M44.6738916,50.2260741 C44.6738916,37.8975876 34.6733003,27.9033745 22.3369458,27.9033745 C10.0005913,27.9033745 0,37.8975876 0,50.2260741 C0,62.5545607 44.6738916,62.5545607 44.6738916,50.2260741 Z" id="Head"></path>
+                        </g>
+                        <ellipse id="Border" cx="40.4857143" cy="40.459893" rx="40.4857143" ry="40.459893"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

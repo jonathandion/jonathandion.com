@@ -1,0 +1,15 @@
+baseURL = "https://blog.jonathandion.com/"
+languageCode = "en-us"
+title = "jonathan dion"
+theme = "hugo-theme-basic"
+googleAnalytics = "UA-XXXXXXXXX-X"
+enableEmoji = false
+description = ""
+copyright = ""
+
+[[params.menu]]
+  name = "posts"
+  url = "posts"
+
+[Permalinks]
+  post = "post/:slug"

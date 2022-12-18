@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1310px" height="179px" viewBox="0 0 1310 179" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>formes</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1278.95798" y="2.95798402" width="21" height="21"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="21" height="21" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="86.421285" y="46.0118809" width="19.9803739" height="19.9803739"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="19.9803739" height="19.9803739" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="5" y="122" width="23" height="23"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="23" height="23" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="384.928203" y="125.928203" width="16" height="16"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16" height="16" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.35">
+        <g id="Group-2" transform="translate(-69.000000, -42.000000)">
+            <g id="formes" transform="translate(69.000000, 42.000000)">
+                <polygon id="Triangle-1" stroke="#FFFFFF" stroke-width="7" transform="translate(202.163815, 106.227070) rotate(37.000000) translate(-202.163815, -106.227070) " points="202.163815 104.636817 203.754067 107.817322 200.573562 107.817322"></polygon>
+                <polygon id="Triangle-1-Copy" stroke="#FFFFFF" stroke-width="7" transform="translate(202.417932, 37.881619) rotate(37.000000) translate(-202.417932, -37.881619) " points="202.417932 25.8271988 214.472352 49.9360383 190.363513 49.9360383"></polygon>
+                <polygon id="Triangle-1-Copy-2" fill="#FFFFFF" transform="translate(1121.902116, 26.902116) rotate(-24.000000) translate(-1121.902116, -26.902116) " points="1121.90212 19.4021158 1129.40212 34.4021158 1114.40212 34.4021158"></polygon>
+                <polygon id="Triangle-1-Copy-3" stroke="#FFFFFF" stroke-width="7" transform="translate(876.570384, 147.570384) rotate(37.000000) translate(-876.570384, -147.570384) " points="876.570384 137.880371 886.260398 157.260398 866.880371 157.260398"></polygon>
+                <polygon id="Triangle-1-Copy-4" stroke="#FFFFFF" stroke-width="7" transform="translate(1289.957164, 134.957164) rotate(-24.000000) translate(-1289.957164, -134.957164) " points="1289.95716 125.143228 1299.7711 144.771099 1280.14323 144.771099"></polygon>
+                <use id="Rectangle-2" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="10" transform="translate(1289.457984, 13.457984) rotate(70.000000) translate(-1289.457984, -13.457984) " xlink:href="#path-1"></use>
+                <use id="Rectangle-2" stroke="#FFFFFF" mask="url(#mask-4)" stroke-width="10" transform="translate(96.411472, 56.002068) rotate(10.000000) translate(-96.411472, -56.002068) " xlink:href="#path-3"></use>
+                <use id="Rectangle-2" stroke="#FFFFFF" mask="url(#mask-6)" stroke-width="8" transform="translate(16.500000, 133.500000) rotate(36.000000) translate(-16.500000, -133.500000) " xlink:href="#path-5"></use>
+                <use id="Rectangle-2" stroke="#FFFFFF" mask="url(#mask-8)" stroke-width="10" transform="translate(392.928203, 133.928203) rotate(30.000000) translate(-392.928203, -133.928203) " xlink:href="#path-7"></use>
+                <circle id="Oval-3" fill="#FFFFFF" cx="1060" cy="118" r="5"></circle>
+                <circle id="Oval-3" stroke="#FFFFFF" stroke-width="5" cx="122" cy="163" r="13"></circle>
+                <ellipse id="Oval-3" stroke="#FFFFFF" stroke-width="5" cx="1133" cy="150" rx="11" ry="11"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

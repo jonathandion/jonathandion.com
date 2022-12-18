@@ -1,0 +1,20 @@
+@mixin clearfix() {
+    &:before,
+    &:after {
+        content: "";
+        display: table;
+    }
+    &:after {
+        clear: both;
+    }
+}
+
+@mixin responsive-typo ( $min-size: 12, $max-size: 21, $min-width: 420, $max-width: 1280) {
+    font-size: calc( #{$min-size + px} + #{$max-size - $min-size} * ( (100vw - #{$min-width + px}) / #{$max-width - $min-width}));
+    @media screen and (max-width: $min-width + px) {
+        font-size: $min-size + px;
+    }
+    @media screen and (min-width: $max-width + px) {
+        font-size: $max-size + px;
+    }
+}

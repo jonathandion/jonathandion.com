@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on jonathan dion</title>
+    <link>https://blog.jonathandion.com/posts/</link>
+    <description>Recent content in Posts on jonathan dion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Apr 2019 16:34:15 -0400</lastBuildDate>
+    
+	<atom:link href="https://blog.jonathandion.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>vim and javascript</title>
+      <link>https://blog.jonathandion.com/posts/vim-and-node/</link>
+      <pubDate>Thu, 25 Apr 2019 16:34:15 -0400</pubDate>
+      
+      <guid>https://blog.jonathandion.com/posts/vim-and-node/</guid>
+      <description>I really like vim. I can do everything that an IDE provides without the bloat. If you need a feature in vim, you need to do it yourself or use a plugin. That’s the power of vim, you can build your own text editor.
+If you are coding in javascript, here some of the commands and plugins that I use on a daily base:
+plugins  vim-node vim-test  for snippets:</description>
+    </item>
+    
+    <item>
+      <title>gzip json to aws s3 using nodejs</title>
+      <link>https://blog.jonathandion.com/posts/json-gzip-s3/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://blog.jonathandion.com/posts/json-gzip-s3/</guid>
+      <description>today I learned, how to upload a json file to s3 with gzip compression using nodejs.
+I thought would be a great idea to share a sample:
+const zlib = require(&#39;zlib&#39;) const util = require(&#39;util&#39;) const AWS = require(&#39;aws-sdk&#39;) const s3 = new AWS.S3(); const gzip = util.promisify(zlib.gzip) async function main() { try { const data = JSON.stringify({ name: &amp;quot;somedata&amp;quot; }) const buffer = new Buffer.from(data) const compressed = await gzip(buffer) const params = { Body: compressed, Bucket: &amp;quot;my-bucket-here&amp;quot;, Key: &amp;quot;my-data.</description>
+    </item>
+    
+  </channel>
+</rss>

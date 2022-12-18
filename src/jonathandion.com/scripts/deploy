@@ -1,0 +1,7 @@
+aws s3 sync ../ s3://www.jonathandion.com/ --exclude "*" \
+                                          --include "index.html" \
+                                          --include "assets/*" \
+                                          --expires $(date "+%Y-%m-%d" -d "+1 Month")
+
+aws cloudfront create-invalidation --distribution-id E1X3C08TYLYII0  \
+                                    --paths "/index.html" "/assets/*"

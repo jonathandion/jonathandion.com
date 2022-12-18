@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blog.jonathandion.com/posts/vim-and-node/</loc>
+    <lastmod>2019-04-25T16:34:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.jonathandion.com/posts/json-gzip-s3/</loc>
+    <lastmod>2019-04-23T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.jonathandion.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jonathandion.com/posts/</loc>
+    <lastmod>2019-04-25T16:34:15-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jonathandion.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jonathandion.com/</loc>
+    <lastmod>2019-04-25T16:34:15-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
